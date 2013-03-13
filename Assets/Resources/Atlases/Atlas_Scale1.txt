@@ -1,0 +1,100 @@
+{"frames": {
+
+"blank.png":
+{
+	"frame": {"x":4,"y":387,"w":4,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":4},
+	"sourceSize": {"w":4,"h":4}
+},
+"Pirate.png":
+{
+	"frame": {"x":46,"y":358,"w":148,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":256},
+	"sourceSize": {"w":148,"h":256}
+},
+"Bunny.png":
+{
+	"frame": {"x":4,"y":346,"w":26,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":37},
+	"sourceSize": {"w":26,"h":37}
+},
+"CloseButton_down.png":
+{
+	"frame": {"x":353,"y":501,"w":52,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":54},
+	"sourceSize": {"w":54,"h":54}
+},
+"CloseButton_normal.png":
+{
+	"frame": {"x":59,"y":639,"w":52,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":54},
+	"sourceSize": {"w":54,"h":54}
+},
+"CloseButton_over.png":
+{
+	"frame": {"x":3,"y":639,"w":52,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":54},
+	"sourceSize": {"w":54,"h":54}
+},
+"FranchiseFontAtlas.png":
+{
+	"frame": {"x":3,"y":3,"w":248,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":248,"h":166},
+	"sourceSize": {"w":256,"h":256}
+},
+"FranchiseFont_Scale1.png":
+{
+	"frame": {"x":255,"y":3,"w":244,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":244,"h":204},
+	"sourceSize": {"w":256,"h":256}
+},
+"YellowButton_down.png":
+{
+	"frame": {"x":3,"y":289,"w":132,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":54},
+	"sourceSize": {"w":134,"h":54}
+},
+"YellowButton_normal.png":
+{
+	"frame": {"x":3,"y":231,"w":132,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":54},
+	"sourceSize": {"w":134,"h":54}
+},
+"YellowButton_over.png":
+{
+	"frame": {"x":3,"y":173,"w":132,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":54},
+	"sourceSize": {"w":134,"h":54}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "BananaGameAtlas_Scale1.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b4cc1fdb0f4045aba390766fb7171aa6$"
+}
+}
